@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cos209project/static/css/main.ef339c40.css",
+    "main.js": "/cos209project/static/js/main.d3ca8c9d.js",
+    "static/js/453.ea0cfbd9.chunk.js": "/cos209project/static/js/453.ea0cfbd9.chunk.js",
+    "index.html": "/cos209project/index.html",
+    "main.ef339c40.css.map": "/cos209project/static/css/main.ef339c40.css.map",
+    "main.d3ca8c9d.js.map": "/cos209project/static/js/main.d3ca8c9d.js.map",
+    "453.ea0cfbd9.chunk.js.map": "/cos209project/static/js/453.ea0cfbd9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ef339c40.css",
+    "static/js/main.d3ca8c9d.js"
+  ]
+}
